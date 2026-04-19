@@ -22,13 +22,19 @@ Arduino
 Rgba
 and 3 resistors of 220 OHM
 you can view detail in photo :
+<img width="1061" height="803" alt="image" src="https://github.com/user-attachments/assets/51d684f8-1102-4967-a47e-b3273483b814" />
+
 
 # PCB 
 I will add a footprint ss to assign it to symbol 
+<img width="1271" height="833" alt="image" src="https://github.com/user-attachments/assets/d13dd9c7-7a1e-4fc8-99b5-30b811fc0505" />
+
 
 # CAD
 in cad i have basically divided it to part one is plastic material and another one is transoarent material body so when the led glow it will look great
 and we cn attach them by printed screw or even normalscrews 
+<img width="1645" height="922" alt="image" src="https://github.com/user-attachments/assets/e44b3c40-399d-40cb-ba37-bccb9ca4e941" />
+
 
 # Frimware 
 frimware is available on frimware folder and code is simple and eefective as a project in frimware it is mainly used to read a data of sensor and make led glow according to result
